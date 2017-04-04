@@ -1,0 +1,257 @@
+{
+  "settings": {
+    "name": "Alli Reece's Music Page",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": "",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 11,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "84px",
+              "color": "#f1c050",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#5bc0de",
+              "text-align": "center",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header4-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1148350lyqg24hdx1.gif",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/6piIl5_ivLY?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "ALLI<br>REECE",
+          "text": "ONLY THE GOOD DAYS",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"MUSIC.html\" data-toolbar=\"-mbrBtnMove\">ABOUT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MUSIC</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#f1c050"
+            },
+            ".navbar-brand": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "menu-1",
+          "_params": {
+            "hamburgerColor": "#f1c050",
+            "sticky": true,
+            "transparent": false,
+            "color": "#000000",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/580b57fbd9996e24bc43c078-165x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLI REECE</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>"
+        }
+      ]
+    },
+    "MUSIC.html": {
+      "settings": {
+        "title": "ALLI'S MUSIC",
+        "meta_descr": "Here you can findthe songs that Alli Reece has written. At times you can listen to a select few & see lyrics."
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#f1c050"
+            },
+            ".navbar-brand": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "menu-2",
+          "_params": {
+            "hamburgerColor": "#f1c050",
+            "sticky": true,
+            "transparent": false,
+            "color": "#000000",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/580b57fbd9996e24bc43c078-165x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLI REECE</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "image1-9",
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=6piIl5_ivLY",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "DEDICATED TO THE LIFE AND LOVING MEMORY OF JASON DEAN. JASON HAD THE KIND OF HEART I WISH IT WERE MANDATORY FOR EVERYONE TO HAVE IN REGARDS TO HOW WE TREAT EACH OTHER. HE WAS THE KIND OF FRIEND THAT HAD YOUR BACK, IN EVERY SITUATION. I NEVER FELT JUDGED BY HIM. NOT ONCE. I WAS TRULY BLESSED TO HAVE CALLED HIM A TRUE FRIEND FOR OVER A DECADE. I WISH SO BADLY THAT HE WERE STILL HERE, BUT IN A WAY HE IS. I BELIEVE THAT THE ENERGY THAT MAKES US, \"US\", DOES NOT DIE WITH OUR PHYSICAL FORM. INSTEAD, WE RETURN TO THE VAST ONENESS THAT ENCOMPASSES ALL.<div>I DON'T CLAIM TO HAVE ALL THE ANSWERS, AND IF YOU DO YOU'RE EITHER A FOOL OR A LIAR. I PRESCRIBE TO NO MAN MADE RELIGION, BECAUSE YOU CAN SEE THE DEVICIVNESS OF THEOLOGY BY ALLOWING YOURSELF TO ASK QUESTIONS. GOD IS BIGGER THAN A BOOK. I MUCH MORE SEE IT LIKE THIS. THE UNIVERSE IS ALIVE, AND EVERYTHING THAT EXISTS WITHIN IT, INCLUDING US, ARE CONNECTED ON A FUNDAMENTAL LEVEL. GOD IS THE UNIVERSE. GOD IS CONNECTION. CONNECTION IS LOVE. JASON WAS LOVE. WE ARE ALL IMPERFECTLY PERFECT ASPECTS OF GOD/THE UNIVERSE EXPERIENCING ITSELF THROUGH OUR LIVES.&nbsp;</div>"
+        },
+        {
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F88231042",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-7",
+          "_params": {
+            "sound": "https://soundcloud.com/alli-reece",
+            "autoplay": true,
+            "fullWidth": false
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F88231042&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-a",
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/alli-front-of-cd-1400x1398.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        }
+      ]
+    }
+  }
+}
